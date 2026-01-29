@@ -1,6 +1,3 @@
-# HOSPITAL-MANAGEMENT-SYSTEM
-Hospital Management System for managing patients, doctors, appointments, medical records, and billing with secure authentication and scalable backend APIs.
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
